@@ -1,7 +1,7 @@
 Hi, Im @svensorgenfrey
 - 👀 I’m interested in Python, machine learning, data visualization - this kind of stuff
-- 🌱 I’m currently learning the python basics on Udemy
-- 💞️ In the future I’ll lbe ooking to collaborate on mining data on Exasol uning AWS or Google Cloud ressources etc.
+- 🌱 I’m currently learning Pandas and MathLib basics on Udemy for mining data on Exasol 
+- 💞️ In the future I’ll lbe ooking to collaborate on using AWS or Google Cloud ressources etc.
 - 📫 How to reach me ... Not sure - will figure that out later.
 
 <!---
